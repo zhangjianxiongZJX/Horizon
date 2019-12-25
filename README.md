@@ -1,2 +1,4 @@
 # Horizon
- A lightweight high concurrent http server
+ Horizon是一个轻量的多线程高并发http服务器，目前只能接受短连接，长连接有待后续http解析模块的完成。后续还将完善各种单元测试和压力测试。
+ Horizon后续将继续开发，计划开发一个基于http的分布式文件服务器。
+ 
